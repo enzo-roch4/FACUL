@@ -181,7 +181,7 @@ golfin = Golfinho("Newton", 3,"razoaveis")
 cobrinha = Cobra("helena", 2,"grande")
 
 
-
+descrever_animal(gato)
 descrever_animal(cobrinha)
 descrever_animal(golfin)
 descrever_animal(tigrinho)
